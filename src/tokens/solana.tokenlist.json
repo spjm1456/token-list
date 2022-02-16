@@ -111603,6 +111603,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "E6GdNG3THaAeHQ6m5QTAzjsBRWdBAFspJ6T7BfnEmpiR",
+      "symbol": "MCCT",
+      "name": "McCoolCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/spjm1456/Token/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
